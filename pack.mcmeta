@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Reworks music discs to all be one item internally. Gives 19 extra items for datapack use.",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": 101
+  }
+}
